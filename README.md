@@ -12,4 +12,4 @@ Extract and zip/tar/gp your files and directories
 
 ![alt text](screenshots/sc2.png)
 
-![alt text](screenshots/sc3.png)
+
