@@ -1,6 +1,6 @@
 Extract and zip/tar/gp your files and directories
 
-### HOW TO USE:
+### How to use:
 
 `git clone <this repo>`\
 `cd zip-app/main`\
