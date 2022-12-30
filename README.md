@@ -1,4 +1,3 @@
-# zip-app
 Extract and zip/tar/gp your files and directories
 
 ### HOW TO USE:
