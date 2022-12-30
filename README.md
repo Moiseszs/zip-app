@@ -6,6 +6,10 @@ Extract and zip/tar/gp your files and directories
 `cd zip-app/main`\
 `python main.py`
 
+## Examples:
 
+![alt text](screenshots/sc1.png)
 
+![alt text](screenshots/sc2.png)
 
+![alt text](screenshots/sc3.png)
