@@ -8,8 +8,8 @@ Extract and zip/tar/gp your files and directories
 
 ## Examples:
 
-![alt text](screenshots/sc1.png)
+![alt text](screenshots/sc4.png)
 
-![alt text](screenshots/sc2.png)
+![alt text](screenshots/sc5.png)
 
 
